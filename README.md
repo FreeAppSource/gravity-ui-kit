@@ -27,13 +27,13 @@ Listed in the order of the app's flow. "Taps" is the number of tap targets wired
 | 13 | **Cards** | `src/app/cards.jsx` | 375 × 812 | 10 |
 | 14 | **Menu** (side drawer) | `src/app/menu.jsx` | 260 × 812 | 6 |
 | 15 | **Transaction** | `src/app/transaction.jsx` | 375 × 812 | 7 |
-| 16 | **Issac Conversation — typed** | `src/app/issac-conversation-typed.jsx` | 375 × 1208 | 2 |
+| 16 | **Issac Conversation - typed** | `src/app/issac-conversation-typed.jsx` | 375 × 1208 | 2 |
 | 17 | **View Pin** | `src/app/view-pin.jsx` | 375 × 812 | 6 |
 | 18 | **Freeze card** | `src/app/freeze-card.jsx` | 375 × 812 | 6 |
 | 19 | **Set limit** | `src/app/set-limit.jsx` | 375 × 812 | 2 |
 | 20 | **Security** | `src/app/security.jsx` | 375 × 812 | 1 |
 | 21 | **Transaction Extended** | `src/app/transaction-extended.jsx` | 375 × 812 | 6 |
-| 22 | **Issac Conversation — Voice** | `src/app/issac-conversation-voice.jsx` | 375 × 999 | 1 |
+| 22 | **Issac Conversation - Voice** | `src/app/issac-conversation-voice.jsx` | 375 × 999 | 1 |
 
 Screenshots of every screen are in [`screenshots/`](./screenshots).
 
