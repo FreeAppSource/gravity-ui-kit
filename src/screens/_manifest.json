@@ -1,0 +1,209 @@
+{
+ "app": "Gravity UI Kit",
+ "start": "intro-1-0",
+ "screens": [
+  {
+   "slug": "security",
+   "name": "Security",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 27,
+   "links": 1
+  },
+  {
+   "slug": "menu",
+   "name": "Menu",
+   "page": "UI",
+   "w": 260,
+   "h": 812,
+   "elements": 11,
+   "links": 6
+  },
+  {
+   "slug": "home",
+   "name": "Home",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 311,
+   "links": 8
+  },
+  {
+   "slug": "transaction",
+   "name": "Transaction",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 325,
+   "links": 7
+  },
+  {
+   "slug": "transaction-extended",
+   "name": "Transaction Extended",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 342,
+   "links": 6
+  },
+  {
+   "slug": "analytics",
+   "name": "Analytics",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 334,
+   "links": 7
+  },
+  {
+   "slug": "top-up",
+   "name": "Top Up",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 62,
+   "links": 2
+  },
+  {
+   "slug": "meet-issac",
+   "name": "Meet - Issac",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 247,
+   "links": 2
+  },
+  {
+   "slug": "issac-conversation-typed",
+   "name": "Issac Conversation \u2014 typed",
+   "page": "UI",
+   "w": 375,
+   "h": 1208,
+   "elements": 580,
+   "links": 2
+  },
+  {
+   "slug": "issac-conversation-voice",
+   "name": "Issac Conversation \u2014 Voice",
+   "page": "UI",
+   "w": 375,
+   "h": 999,
+   "elements": 344,
+   "links": 1
+  },
+  {
+   "slug": "home-init",
+   "name": "Home Init",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 273,
+   "links": 7
+  },
+  {
+   "slug": "intro-1-1",
+   "name": "Intro 1.1",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 11,
+   "links": 1
+  },
+  {
+   "slug": "intro-1-0",
+   "name": "Intro 1.0",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 8,
+   "links": 1
+  },
+  {
+   "slug": "get-started",
+   "name": "Get started",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 15,
+   "links": 2
+  },
+  {
+   "slug": "faceid",
+   "name": "FaceID",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 36,
+   "links": 1
+  },
+  {
+   "slug": "email-address",
+   "name": "Email address",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 92,
+   "links": 2
+  },
+  {
+   "slug": "password",
+   "name": "Password",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 92,
+   "links": 2
+  },
+  {
+   "slug": "payments",
+   "name": "Payments",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 327,
+   "links": 6
+  },
+  {
+   "slug": "cards",
+   "name": "Cards",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 310,
+   "links": 10
+  },
+  {
+   "slug": "view-pin",
+   "name": "View Pin",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 318,
+   "links": 6
+  },
+  {
+   "slug": "freeze-card",
+   "name": "Freeze card",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 303,
+   "links": 6
+  },
+  {
+   "slug": "set-limit",
+   "name": "Set limit",
+   "page": "UI",
+   "w": 375,
+   "h": 812,
+   "elements": 52,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "poppins"
+ ]
+}
